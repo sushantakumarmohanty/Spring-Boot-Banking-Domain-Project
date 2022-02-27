@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;cgrequirement&apos;&#x0D;&#x0A;- Original project: &apos;cgrequirement&apos;&#x0D;&#x0A;- Original element: &apos;cgrequirement/src/main/java/com.spring.io&apos;" description="Delete element" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.spring.io" element2="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.spring" element3="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1645368854475" subPackages="false" version="1.0"/>
+</session>

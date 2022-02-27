@@ -1,0 +1,31 @@
+package com.jvav;
+
+import java.util.Collections;
+import java.util.List;
+import java.util.TreeSet;
+
+public class StringPrograms {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		TreeSet<String> arr=new TreeSet<String>();
+      arr.add("sushanrta");
+        arr.add("susha");
+        arr.add("hemants");
+        arr.add("ABC");
+        Collections.reverse((List<?>) arr);  
+		
+		
+		   
+		   
+
+	            System.out.println("Sum of x+y = " + arr);
+	            
+	            
+	           
+                
+	        
+
+	}
+
+}

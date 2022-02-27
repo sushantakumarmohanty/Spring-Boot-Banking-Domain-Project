@@ -1,0 +1,29 @@
+package com.jvav;
+
+import java.util.TreeSet;
+
+public class StringPrograms {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		TreeSet<String> arr=new TreeSet<String>();
+      arr.add("sushanrta");
+        arr.add("susha");
+        arr.add("hemants");
+        arr.add("ABC");
+          
+		
+		
+		   
+		   
+
+	            System.out.println("Sum of x+y = " + arr);
+	            
+	            
+	           
+                
+	        
+
+	}
+
+}
